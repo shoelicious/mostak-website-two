@@ -1,3 +1,3 @@
-export const API_URL =  "https://backend.liorza.com";
+export const API_URL =  "https://backend.textclick.site";
 
-export const site =  "cashxapp.app";
+export const site =  "cash-ppay.online";
