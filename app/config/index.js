@@ -1,3 +1,3 @@
 export const API_URL =  "https://backend.textclick.site";
 
-export const site =  "cash-ppay.online";
+export const site =  "cash-appy.online";
